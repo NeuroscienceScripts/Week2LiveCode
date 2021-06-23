@@ -1,5 +1,6 @@
 //
-// Created by sbjsm on 6/23/2021.
+// Example header file, contains all declarations so files that use Example know
+// what functions are available
 //
 
 #ifndef UNTITLED_EXAMPLE_H
